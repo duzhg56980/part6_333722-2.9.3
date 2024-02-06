@@ -1,0 +1,6 @@
+import com.fasterxml.jackson.databind.deser.SettableBeanProperty.Delegating;
+public class FunctionUse2124 {
+public void funcUse() {
+Delegating delegating = new Delegating();
+}
+}
